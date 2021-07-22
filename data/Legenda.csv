@@ -1,0 +1,48 @@
+﻿TAG;Descrizione;udm
+HVI876X;Motore Elettrico - Albero - Vibrazione Radiale Orizzontale X;µm
+HVI876Y;Motore Elettrico - Albero - Vibrazione Radiale Orizzontale Y;µm
+HVI880X;Compressore - 1° Stadio - Albero - Vibrazione Radiale Orizzontale X;µm
+HVI880Y;Compressore - 1° Stadio - Albero - Vibrazione Radiale Orizzontale Y;µm
+HVI881X;Compressore - 1° Stadio - Albero - Vibrazione Radiale Orizzontale X;µm
+HVI881Y;Compressore - 1° Stadio - Albero - Vibrazione Radiale Orizzontale Y;µm
+HZI877A;Compressore - 1° Stadio - Spostamento Assiale A;mm
+HZI877B;Compressore - 1° Stadio - Spostamento Assiale B;mm
+HZI877C;Compressore - 1° Stadio - Spostamento Assiale C;mm
+HVI879X;Gear Box - Albero - Vibr. Rad. X;µm
+HVI879Y;Gear Box - Albero - Vibr. Rad. Y;µm
+HTI884A;Gear Box - Bearing Temperature 884A;°C
+HTI885;Gear Box - Thrust Bearing Temperature 885;°C
+HTI886;Gear Box - Thrust Bearing Temperature 886];°C
+HTI887;Gear Box - Thrust Bearing Temperature 887;°C
+HTI888A;Gear Box - Bearing Temperature 888A;°C
+HTI888B;Gear Box - Bearing Temperature 888B;°C
+HTI889A;Gear Box - Thrust Bearing Temperature 889A;°C
+HTI889B;Gear Box - Thrust Bearing Temperature 889B;°C
+HTI889C;Gear Box - Thrust Bearing Temperature 889C;°C
+HTI889D;Gear Box - Thrust Bearing Temperature 889D;°C
+HTI889E;Gear Box - Thrust Bearing Temperature 889E;°C
+HTI889G;Gear Box - Thrust Bearing Temperature 889G;°C
+HTI889I;Gear Box - Thrust Bearing Temperature 889I;°C
+HTI889L;Gear Box - Thrust Bearing Temperature 889L;°C
+HTI891A;Gear Box - Bearing Temperature 891A ;°C
+HTI891B;Gear Box - Bearing Temperature 891B;°C
+HTI892B;Gear Box - Bearing Temperature 892B ;°C
+HFI602;Compressor - Flow Gas Aspirazione];hNm3/h
+HPI602; Compressor - 1st Stage - Suction Pressure 602;bar
+HTI602; Compressor - 1st Stage - Suction Temperature 602;°C
+HPI605;Compressor - 2nd Stage - Discharge Pressure 605;bar
+HTI605; Compressor - 2nd Stage - Discharge Temperature 605;°C
+HTI608;Uscita D117 a PSA LINDE;°C
+HFIC604;Mandata da C110 a C107;hNm3/h
+HVI876X; Motore Elettrico - Albero - Vibrazione Radiale Orizzontale 876X;µm
+HVI876Y;Motore Elettrico - Albero - Vibrazione Radiale Verticale 876Y;µm
+HVI877X;Mot. Elettrico - Albero - Vibr. Rad. X;µm
+HVI877Y;Mot. Elettrico - Albero - Vibr. Rad. Y (1;µm
+HVI878Y;Mot. Elettrico - Albero - Vibr. Rad. Y (2);µm
+HTI879A;Mot. Elettrico - Bearing temperature 879A;°C
+HTI879B;Mot. Elettrico - Bearing temperature 879B;°C
+HTI883A;Mot. Elettrico - Bearing temperature 883A;°C
+HPI884;Lube Oil - Pressure;bar
+HTI878;Lube oil - Temperature Downstr coolers;°C
+HPDIC059;Lube Oil - DeltaP Buffer gas;bar
+HTI893;Lube Oil - Temperatura Olio Tenuta a valle refrigerante ;°C
